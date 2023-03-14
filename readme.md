@@ -1,2 +1,2 @@
 # new project
-some description.
+some description!.
